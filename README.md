@@ -6,14 +6,9 @@
 
 📚 I'm currently studying Computer Engineering at IFCE
 
-💻 I'm interested in development, mainly Web
+💻 I'm interested in solve problems, and development is perfect for this
 
-<h3> 👋 Hi, I'm Moises</h3>
-
-<h3> 👋 Hi, I'm Moises</h3>
-
-
-
+<hr/>
 
 ## :computer: Technologies I use
 Today I'm focused in Web Development using:
