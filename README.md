@@ -27,7 +27,7 @@ Today I'm focused in Web Development, using:
 <hr/>
 
 ## :computer: How to find me
-<img src = 'https://www.google.com/search?q=linkedin+png&sxsrf=APq-WBuC2NY_XAqRtypir9LTCYmgsQmTZw:1646309074637&tbm=isch&source=iu&ictx=1&vet=1&fir=JdyXos__tp7KHM%252CvN5M6nzFDECBsM%252C_%253Br1S5a9sifA6wEM%252C7qsiJVnJrO84qM%252C_%253BhxYm73jlKBLwDM%252CDV6VpP5iDXlq4M%252C_%253BgpfkwcC7FE6zoM%252C0obalEORZ6ctJM%252C_%253BVwGo80NVhZ04OM%252C4L9tg0D5LTfh8M%252C_%253BXAvTfdJnSlwWTM%252CnuUHmrVXFK45hM%252C_%253BINEbRKexJIq5rM%252CaGubZthiI3cJGM%252C_%253BW_F8sugHoBhuXM%252CaYvMsuuU21qU9M%252C_&usg=AI4_-kReKntHQT0q21vUE-luEER46vj9Lg&sa=X&ved=2ahUKEwjz69Wc86n2AhXqppUCHa7qChoQ9QF6BAgFEAE#imgrc=JdyXos__tp7KHM' width='30'/> 
+<img src = 'https://www.gratispng.com/static/img/default.png' width='30'/> 
 
 
 
