@@ -2,7 +2,7 @@
 
 ## :computer: Technologies I use
 Today I'm focused in Web Development using:
-- HTML
+- HTML <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/>
 - CSS
 - JS
 - PHP
@@ -10,6 +10,8 @@ Today I'm focused in Web Development using:
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sousam02&layout=compact&theme=radical">
 
 <hr/>
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sousam02&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
