@@ -3,10 +3,7 @@
 ## :computer: Technologies I use
 Today I'm focused in Web Development using:
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>
--  CSS
-- JS
-- PHP
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sousam02&layout=compact&theme=radical">
 
