@@ -6,7 +6,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sousam02&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sousam02)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sousam02&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 sousam02/sousam02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
