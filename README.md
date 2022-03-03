@@ -27,7 +27,7 @@ Today I'm focused in Web Development, using:
 <hr/>
 
 ## :computer: How to find me
-<img src = 'https://www.gratispng.com/static/img/default.png' width='30'/> 
+<img src = 'https://w7.pngwing.com/pngs/93/587/png-transparent-linkedin-logo-linkedin-logo-computer-icons-business-symbol-linkedin-icon-miscellaneous-blue-angle-thumbnail.png' width='30'/> 
 
 
 
