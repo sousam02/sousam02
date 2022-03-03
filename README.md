@@ -1,5 +1,5 @@
-<h2>About me</h2>
-<h4>My name is Moises</h4>
+<h1>😀 About me 😀</h1>
+
 
 
 - 👋 Hi, I'm Moises
