@@ -4,9 +4,9 @@
 ## :computer: Resume
  👋 Hi, I'm Moises
 
-<h3> 📚 I'm currently studying Computer Engineering at IFCE</h3>
+📚 I'm currently studying Computer Engineering at IFCE
 
-<h3> 👋 Hi, I'm Moises</h3>
+💻 I'm interested in development, mainly Web
 
 <h3> 👋 Hi, I'm Moises</h3>
 
