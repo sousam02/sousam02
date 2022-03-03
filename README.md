@@ -1,5 +1,20 @@
 <h1>😀 About me 😀</h1>
 
+
+## :computer: Resume
+<h3> 👋 Hi, I'm Moises</h3>
+
+<h3> 📚 I'm currently studying Computer Engineering at IFCE</h3>
+
+<h3> 👋 Hi, I'm Moises</h3>
+
+<h3> 👋 Hi, I'm Moises</h3>
+
+<h3> 👋 Hi, I'm Moises</h3>
+
+
+
+
 ## :computer: Technologies I use
 Today I'm focused in Web Development using:
 
