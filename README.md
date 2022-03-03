@@ -2,7 +2,7 @@
 
 
 ## :computer: Resume
-<h3> 👋 Hi, I'm Moises</h3>
+ 👋 Hi, I'm Moises
 
 <h3> 📚 I'm currently studying Computer Engineering at IFCE</h3>
 
