@@ -2,8 +2,8 @@
 
 ## :computer: Technologies I use
 Today I'm focused in Web Development using:
-- HTML <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/>
-- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> CSS
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>
+-  CSS
 - JS
 - PHP
 
