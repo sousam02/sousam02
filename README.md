@@ -1,11 +1,14 @@
 <h1>😀 About me 😀</h1>
 
-## :computer: Technologies I Love
+## :computer: Technologies I use
+Today I'm focused in Web Development using:
+- HTML
+- CSS
+- JS
+- PHP
 
-- 👋 Hi, I'm Moises
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+
+-  
 - 📫 How to reach me ...
 <h3>Stats 📈</h3>
 
