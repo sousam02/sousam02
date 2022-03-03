@@ -6,11 +6,7 @@ Today I'm focused in Web Development using:
 - CSS
 - JS
 - PHP
-
-
--  
-- 📫 How to reach me ...
-<h3>Stats 📈</h3>
+<hr/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sousam02&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
