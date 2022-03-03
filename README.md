@@ -6,7 +6,6 @@
 
 📚 I'm currently studying Computer Engineering at IFCE
 
-💻 I'm interested web development and its technologies
 
 <hr/>
 
