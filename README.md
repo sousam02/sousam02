@@ -1,3 +1,7 @@
+<h2>About me</h2>
+<h4>My name is Moises</h4>
+
+
 - 👋 Hi, I'm Moises
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
