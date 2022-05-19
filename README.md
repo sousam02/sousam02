@@ -18,12 +18,6 @@ Today I'm focused in Web Development, using:
 
 <hr/>
 
-## :computer: Stats
-
-
-
-
-<hr/>
 
 ## :computer: How to find me
 <a href="https://www.linkedin.com/in/mois%C3%A9s-sousa-3a505a1b9/"> <img src = 'https://w7.pngwing.com/pngs/93/587/png-transparent-linkedin-logo-linkedin-logo-computer-icons-business-symbol-linkedin-icon-miscellaneous-blue-angle-thumbnail.png' width='30'/> Linkedin </a> 
