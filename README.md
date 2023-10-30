@@ -1,3 +1,7 @@
+<head>
+<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
+</head>
+
 <h1>😀 About me 😀</h1>
 
 
@@ -12,12 +16,18 @@
 ## :computer: Technologies I use
 Today I'm focused in Web Development, using:
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
+<div style="width: 50%; align-items: center; justify-contents: space-between">
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  height="40" width="40"/><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg"  height="40" width="40"/><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg"  height="40" width="40"/> 
+</div>
+
+
+
 
 
 
 <hr/>
 
+## :computer: Some stats
 
 <div align="center">
 <a href="https://github.com/sousam02">
